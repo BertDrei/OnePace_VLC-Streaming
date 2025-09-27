@@ -1,0 +1,41 @@
+# Generated data files
+Data/OnePiece_Egghead.m3u
+Data/known_ids.json
+
+# Backup files
+Backups/*.bak
+Backups/*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Personal configuration (if you add config files later)
+config.local.json
+settings.local.py
+SETUP_COMPLETE.md
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows shortcuts
+*.lnk
+
+# Environment variables
+.env
+.env.local
